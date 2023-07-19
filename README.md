@@ -2,6 +2,8 @@
 
 Welcome to Little Lemon Restaurant's reservation booking website.
 
+Live Website: https://little-lemon-reservation.netlify.app/
+
 ![Website Preview](./src/assets/preview.png)
 
 
