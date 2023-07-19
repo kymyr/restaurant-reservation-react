@@ -17,7 +17,7 @@ Welcome to Little Lemon Restaurant's reservation booking website.
 In the project directory, you can run:
 
 ### `npm i`
-The npm install command is used to install all the dependencies defined in your project's package.json file. 
+To install all the dependencies in the package.json file. 
 
 ### `npm start` / `npm run dev`
 
